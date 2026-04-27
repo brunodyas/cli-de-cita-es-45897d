@@ -12,3 +12,4 @@ D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\refint\cli_
 D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\cli_de_cita_es_45897d.pdb
 D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\cli_de_cita_es_45897d.genruntimeconfig.cache
 D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\ref\cli_de_cita_es_45897d.dll
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\cli_de_cita_es_45897d.sourcelink.json
