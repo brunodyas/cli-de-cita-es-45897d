@@ -1,3 +1,3 @@
 # Notas
 
-Endpoint GET /metrics com contadores em memória e timestamp — experiência de observabilidade mínima.
+CLI que valida e resume em linguagem natural uma expressão cron de 5 campos.
