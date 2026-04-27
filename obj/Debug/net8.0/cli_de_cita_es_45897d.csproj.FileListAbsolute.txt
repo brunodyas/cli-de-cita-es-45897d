@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\cli_de_cita
 D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\cli_de_cita_es_45897d.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\cli_de_cita_es_45897d.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\cli_de_cita_es_45897d.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\bin\Debug\net8.0\cli_de_cita_es_45897d.exe
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\bin\Debug\net8.0\cli_de_cita_es_45897d.deps.json
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\bin\Debug\net8.0\cli_de_cita_es_45897d.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\bin\Debug\net8.0\cli_de_cita_es_45897d.dll
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\bin\Debug\net8.0\cli_de_cita_es_45897d.pdb
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\cli_de_cita_es_45897d.dll
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\refint\cli_de_cita_es_45897d.dll
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\cli_de_cita_es_45897d.pdb
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\cli_de_cita_es_45897d.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-45897d\obj\Debug\net8.0\ref\cli_de_cita_es_45897d.dll
